@@ -1,0 +1,7 @@
+minio
+deltalake
+pyarrow
+pandas
+duckdb
+fire
+boto3
